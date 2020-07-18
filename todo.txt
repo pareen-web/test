@@ -1,0 +1,12 @@
+Development:
+
+React native
+React
+full stack course
+node js with js fundamentals
+jam stack
+
+Deployment:
+AWS Quicklabs
+certification for Solution Arch
+docker
